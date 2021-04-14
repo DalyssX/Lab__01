@@ -1,0 +1,7 @@
+C:\Users\Dalyss\source\repos\Lab__01\bin\Debug\Lab__01.exe.config
+C:\Users\Dalyss\source\repos\Lab__01\bin\Debug\Lab__01.exe
+C:\Users\Dalyss\source\repos\Lab__01\bin\Debug\Lab__01.pdb
+C:\Users\Dalyss\source\repos\Lab__01\obj\Debug\Lab__01.csprojAssemblyReference.cache
+C:\Users\Dalyss\source\repos\Lab__01\obj\Debug\Lab__01.csproj.CoreCompileInputs.cache
+C:\Users\Dalyss\source\repos\Lab__01\obj\Debug\Lab__01.exe
+C:\Users\Dalyss\source\repos\Lab__01\obj\Debug\Lab__01.pdb
